@@ -54,16 +54,17 @@ HEADERS = {
 
 # (xmltv_id, [display names], ausportguide slug, kayo channel number or None)
 CHANNELS = [
-    ("espn.au",          ["ESPN", "ESPN AU", "ESPN Australia"],               "espn",               None),
-    ("espn2.au",         ["ESPN 2", "ESPN2", "ESPN 2 AU", "ESPN2 Australia"], "espn2",              None),
-    ("foxleague.au",     ["Fox League", "Fox Sports 502", "FOX League"],      "fox-league",         502),
-    ("foxcricket.au",    ["Fox Cricket", "Fox Sports 501", "FOX Cricket"],    "fox-sports-cricket", 501),
-    ("foxfooty.au",      ["Fox Footy", "Fox Sports 504", "FOX Footy"],        "fox-footy",          504),
-    ("foxsports503.au",  ["Fox Sports 503", "FOX Sports 503"],                "fox-sports-503",     503),
-    ("foxsports505.au",  ["Fox Sports 505", "FOX Sports 505"],                "fox-sports-505",     505),
-    ("foxsports506.au",  ["Fox Sports 506", "FOX Sports 506"],                "fox-sports-506",     506),
-    ("foxsportsmore.au", ["Fox Sports More", "FOX Sports More"],              "fox-sports-more",    None),
-    ("racing.au",        ["Racing.com", "Racing", "RACING.COM"],              None,                 529),
+    # (xmltv_id = Foxtel channel code, [display names], ausportguide slug, kayo chno, lcn)
+    ("ESP", ["ESPN", "ESPN AU", "ESPN Australia"],            "espn",               None, 509),
+    ("ES2", ["ESPN2", "ESPN 2", "ESPN 2 AU"],                 "espn2",              None, 510),
+    ("SP2", ["FOX League", "Fox League", "Fox Sports 502"],   "fox-league",         502,  502),
+    ("FS1", ["FOX CRICKET", "Fox Cricket", "Fox Sports 501"], "fox-sports-cricket", 501,  501),
+    ("FAF", ["FOX Footy", "Fox Footy", "Fox Sports 504"],     "fox-footy",          504,  504),
+    ("FS3", ["Fox Sports 503"],                               "fox-sports-503",     503,  503),
+    ("FSP", ["Fox Sports 505"],                               "fox-sports-505",     505,  505),
+    ("SPS", ["Fox Sports 506"],                               "fox-sports-506",     506,  506),
+    ("FSS", ["Fox Sports More", "Fox Sports 507"],            "fox-sports-more",    None, 507),
+    ("RTV", ["RACING.COM", "Racing.com", "Racing"],           None,                 529,  529),
 ]
 
 MONTHS = {
@@ -275,10 +276,11 @@ def build_xml(channel_programmes):
     out.append('<?xml version="1.0" encoding="UTF-8"?>')
     out.append('<tv generator-info-name="au-sports-epg" '
                'source-info-name="Kayo / ausportguide.com">')
-    for xmltv_id, names, _slug, _chno in CHANNELS:
+    for xmltv_id, names, _slug, _chno, lcn in CHANNELS:
         out.append(f'  <channel id="{escape(xmltv_id)}">')
         for name in names:
             out.append(f'    <display-name>{escape(name)}</display-name>')
+        out.append(f'    <lcn>{lcn}</lcn>')
         out.append("  </channel>")
 
     for xmltv_id, programmes in channel_programmes.items():
@@ -309,7 +311,7 @@ def main():
     # First pass: collect raw events per channel + find global end of real data
     raw = {}
     global_last = w0
-    for xmltv_id, names, slug, chno in CHANNELS:
+    for xmltv_id, names, slug, chno, _lcn in CHANNELS:
         if chno is not None and chno in kayo:
             events = list(kayo[chno])
             print(f"{names[0]}: {len(events)} programmes (Kayo 24/7)")
@@ -338,7 +340,7 @@ def main():
     # Second pass: build gapless timelines
     channel_programmes = {}
     total = 0
-    for xmltv_id, names, _slug, _chno in CHANNELS:
+    for xmltv_id, names, _slug, _chno, lcn in CHANNELS:
         tl = build_timeline(raw[xmltv_id], w0, w1, names[0])
         channel_programmes[xmltv_id] = tl
         total += len(tl)
