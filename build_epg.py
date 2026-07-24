@@ -21,6 +21,7 @@ Intended to run daily via GitHub Actions.
 
 import re
 import sys
+import gzip
 import json
 import time as _time
 from datetime import date, datetime, timedelta, timezone
@@ -272,7 +273,6 @@ def fmt(dt):
 def build_xml(channel_programmes):
     out = []
     out.append('<?xml version="1.0" encoding="UTF-8"?>')
-    out.append('<!DOCTYPE tv SYSTEM "xmltv.dtd">')
     out.append('<tv generator-info-name="au-sports-epg" '
                'source-info-name="Kayo / ausportguide.com">')
     for xmltv_id, names, _slug, _chno in CHANNELS:
@@ -346,6 +346,8 @@ def main():
     xml = build_xml(channel_programmes)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(xml)
+    with gzip.open(OUTPUT_FILE + ".gz", "wb") as g:
+        g.write(xml.encode("utf-8"))
     print(f"Wrote {OUTPUT_FILE}: {total} programmes across "
           f"{len(CHANNELS)} channels, window {w0.date()} -> {w1.date()}.")
 
