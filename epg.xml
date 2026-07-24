@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="au-sports-epg" source-info-name="ausportguide.com">
+  <channel id="espn.au">
+    <display-name>ESPN</display-name>
+    <display-name>ESPN AU</display-name>
+    <display-name>ESPN Australia</display-name>
+  </channel>
+  <channel id="espn2.au">
+    <display-name>ESPN 2</display-name>
+    <display-name>ESPN2</display-name>
+    <display-name>ESPN 2 AU</display-name>
+    <display-name>ESPN2 Australia</display-name>
+  </channel>
+  <channel id="foxleague.au">
+    <display-name>Fox League</display-name>
+    <display-name>Fox Sports 502</display-name>
+    <display-name>FOX League</display-name>
+  </channel>
+  <channel id="foxcricket.au">
+    <display-name>Fox Cricket</display-name>
+    <display-name>Fox Sports 501</display-name>
+    <display-name>FOX Cricket</display-name>
+  </channel>
+  <channel id="foxfooty.au">
+    <display-name>Fox Footy</display-name>
+    <display-name>Fox Sports 504</display-name>
+    <display-name>FOX Footy</display-name>
+  </channel>
+  <channel id="foxsports503.au">
+    <display-name>Fox Sports 503</display-name>
+    <display-name>FOX Sports 503</display-name>
+  </channel>
+  <channel id="foxsports505.au">
+    <display-name>Fox Sports 505</display-name>
+    <display-name>FOX Sports 505</display-name>
+  </channel>
+  <channel id="foxsports506.au">
+    <display-name>Fox Sports 506</display-name>
+    <display-name>FOX Sports 506</display-name>
+  </channel>
+  <channel id="foxsportsmore.au">
+    <display-name>Fox Sports More</display-name>
+    <display-name>FOX Sports More</display-name>
+  </channel>
+  <programme start="20260724050000 +1000" stop="20260724080000 +1000" channel="espn.au">
+    <title lang="en">Toronto Blue Jays - Tampa Bay Rays</title>
+    <sub-title lang="en">MLB</sub-title>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260724233000 +1000" stop="20260725023000 +1000" channel="espn.au">
+    <title lang="en">One Championship: ONE Friday Figh</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726103000 +1000" stop="20260726133000 +1000" channel="espn.au">
+    <title lang="en">WNBA</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727090000 +1000" stop="20260727120000 +1000" channel="espn.au">
+    <title lang="en">Philadelphia Phillies - New York Yankees</title>
+    <sub-title lang="en">MLB</sub-title>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260728090000 +1000" stop="20260728120000 +1000" channel="espn.au">
+    <title lang="en">MLB: ESPN Baseball</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260729113000 +1000" stop="20260729143000 +1000" channel="espn.au">
+    <title lang="en">Seattle Storm W - Indiana Fever W</title>
+    <sub-title lang="en">WNBA</sub-title>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260724034500 +1000" stop="20260724053000 +1000" channel="espn2.au">
+    <title lang="en">Little League Softball: Little Le</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260724053000 +1000" stop="20260724071500 +1000" channel="espn2.au">
+    <title lang="en">Little League Softball: Little Le</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260724071500 +1000" stop="20260724101500 +1000" channel="espn2.au">
+    <title lang="en">Little League Softball: Little Le</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725100000 +1000" stop="20260725130000 +1000" channel="espn2.au">
+    <title lang="en">Scarborough Shooting Stars - Niagara River</title>
+    <sub-title lang="en">CEBL</sub-title>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260726110000 +1000" stop="20260726140000 +1000" channel="espn2.au">
+    <title lang="en">Premier Lacrosse League: Outlaws</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260724180000 +1000" stop="20260724200000 +1000" channel="foxleague.au">
+    <title lang="en">Newcastle Knights - Sydney Roosters</title>
+    <sub-title lang="en">National Rugby League</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260724200000 +1000" stop="20260724230000 +1000" channel="foxleague.au">
+    <title lang="en">South Sydney Rabbitohs - Melbourne Storm</title>
+    <sub-title lang="en">National Rugby League</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260725150000 +1000" stop="20260725173000 +1000" channel="foxleague.au">
+    <title lang="en">Canberra Raiders - Wests Tigers</title>
+    <sub-title lang="en">National Rugby League</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260725173000 +1000" stop="20260725193500 +1000" channel="foxleague.au">
+    <title lang="en">Canterbury Bulldogs - New Zealand Warriors</title>
+    <sub-title lang="en">National Rugby League</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260725193500 +1000" stop="20260725223500 +1000" channel="foxleague.au">
+    <title lang="en">NQ Cowboys - Brisbane Broncos</title>
+    <sub-title lang="en">National Rugby League</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260726140000 +1000" stop="20260726160500 +1000" channel="foxleague.au">
+    <title lang="en">St.George Illawarra - Gold Coast Titans</title>
+    <sub-title lang="en">National Rugby League</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260726160500 +1000" stop="20260726190500 +1000" channel="foxleague.au">
+    <title lang="en">Manly Sea Eagles - Cronulla Sharks</title>
+    <sub-title lang="en">National Rugby League</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260727000000 +1000" stop="20260727030000 +1000" channel="foxleague.au">
+    <title lang="en">Leeds Rhinos - Bradford Bulls</title>
+    <sub-title lang="en">Super League Rugby</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260724030000 +1000" stop="20260724060000 +1000" channel="foxcricket.au">
+    <title lang="en">London Spirit - Manchester Originals</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260724083000 +1000" stop="20260724113000 +1000" channel="foxcricket.au">
+    <title lang="en">Lahore Qalandars - Perth Scorchers</title>
+    <sub-title lang="en">Global Super League</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260724234500 +1000" stop="20260725024500 +1000" channel="foxcricket.au">
+    <title lang="en">Birmingham Phoenix W - Trent Rockets W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260725030000 +1000" stop="20260725060000 +1000" channel="foxcricket.au">
+    <title lang="en">Birmingham Phoenix - Trent Rockets</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260725194500 +1000" stop="20260725224500 +1000" channel="foxcricket.au">
+    <title lang="en">Northern Superchargers W - Southern Brave W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260725230000 +1000" stop="20260726020000 +1000" channel="foxcricket.au">
+    <title lang="en">Northern Superchargers - Southern Brave</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260726030000 +1000" stop="20260726060000 +1000" channel="foxcricket.au">
+    <title lang="en">Welsh Fire - Oval Invincibles</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260726083000 +1000" stop="20260726113000 +1000" channel="foxcricket.au">
+    <title lang="en">Guyana Amazon Warriors - Desert Vipers</title>
+    <sub-title lang="en">Global Super League</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260726194500 +1000" stop="20260726224500 +1000" channel="foxcricket.au">
+    <title lang="en">Manchester Originals W - Birmingham Phoenix W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260726230000 +1000" stop="20260727020000 +1000" channel="foxcricket.au">
+    <title lang="en">Manchester Originals - Birmingham Phoenix</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260727030000 +1000" stop="20260727060000 +1000" channel="foxcricket.au">
+    <title lang="en">Trent Rockets - London Spirit</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260727083000 +1000" stop="20260727113000 +1000" channel="foxcricket.au">
+    <title lang="en">Guyana Amazon Warriors - Lahore Qalandars</title>
+    <sub-title lang="en">Global Super League</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260727234500 +1000" stop="20260728024500 +1000" channel="foxcricket.au">
+    <title lang="en">Southern Brave W - Oval Invincibles W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260728030000 +1000" stop="20260728060000 +1000" channel="foxcricket.au">
+    <title lang="en">Southern Brave - Oval Invincibles</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260728083000 +1000" stop="20260728113000 +1000" channel="foxcricket.au">
+    <title lang="en">Desert Vipers - San Francisco Unicorns</title>
+    <sub-title lang="en">Global Super League</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260728234500 +1000" stop="20260729024500 +1000" channel="foxcricket.au">
+    <title lang="en">Northern Superchargers W - Manchester Originals W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260724194000 +1000" stop="20260724224000 +1000" channel="foxfooty.au">
+    <title lang="en">Melbourne Demons - Geelong Cats</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260725100000 +1000" stop="20260725130000 +1000" channel="foxfooty.au">
+    <title lang="en">Box Hill - Essendon 2</title>
+    <sub-title lang="en">VFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260725130500 +1000" stop="20260725160500 +1000" channel="foxfooty.au">
+    <title lang="en">Carlton Blues - Gold Coast Suns</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260725161500 +1000" stop="20260725191500 +1000" channel="foxfooty.au">
+    <title lang="en">Hawthorn Hawks - Essendon Bombers</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260725194000 +1000" stop="20260725224000 +1000" channel="foxfooty.au">
+    <title lang="en">Western Bulldogs - Richmond Tigers</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260726131000 +1000" stop="20260726154500 +1000" channel="foxfooty.au">
+    <title lang="en">Brisbane Lions - Port Adelaide Power</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260726154500 +1000" stop="20260726184500 +1000" channel="foxfooty.au">
+    <title lang="en">North Melbourne Kangaroos - St Kilda Saints</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260727170000 +1000" stop="20260727200000 +1000" channel="foxfooty.au">
+    <title lang="en">Sportsday</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260730193000 +1000" stop="20260730223000 +1000" channel="foxfooty.au">
+    <title lang="en">Collingwood Magpies - Geelong Cats</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260724060000 +1000" stop="20260724090000 +1000" channel="foxsports503.au">
+    <title lang="en">USPGA: 3M Open Round 1</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260724201000 +1000" stop="20260724225500 +1000" channel="foxsports503.au">
+    <title lang="en">Fremantle Dockers - West Coast Eagles</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260724225500 +1000" stop="20260725015500 +1000" channel="foxsports503.au">
+    <title lang="en">USPGA: 3M Open Round 2</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725060000 +1000" stop="20260725090000 +1000" channel="foxsports503.au">
+    <title lang="en">USPGA: 3M Open Round 2</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725120000 +1000" stop="20260725150000 +1000" channel="foxsports503.au">
+    <title lang="en">No Limit Boxing: Spence Jr vs Tsz</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725163500 +1000" stop="20260725193500 +1000" channel="foxsports503.au">
+    <title lang="en">Greater Western Sydney - Sydney Swans</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260725193800 +1000" stop="20260725223800 +1000" channel="foxsports503.au">
+    <title lang="en">Western Bulldogs - Richmond Tigers</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260726010000 +1000" stop="20260726030000 +1000" channel="foxsports503.au">
+    <title lang="en">SailGP: Great Britain Day 1</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726030000 +1000" stop="20260726060000 +1000" channel="foxsports503.au">
+    <title lang="en">USPGA: 3M Open Round 3</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726090000 +1000" stop="20260726120000 +1000" channel="foxsports503.au">
+    <title lang="en">Paul Fleming - Ahmad Reda</title>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260726151500 +1000" stop="20260726181500 +1000" channel="foxsports503.au">
+    <title lang="en">North Melbourne Kangaroos - St Kilda Saints</title>
+    <sub-title lang="en">AFL</sub-title>
+    <category lang="en">Aussie Rules</category>
+  </programme>
+  <programme start="20260727010000 +1000" stop="20260727030000 +1000" channel="foxsports503.au">
+    <title lang="en">SailGP: Great Britain Day 2</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727030000 +1000" stop="20260727060000 +1000" channel="foxsports503.au">
+    <title lang="en">Golf: PGA Tour - 3M Open: 3M Open</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260729233000 +1000" stop="20260730023000 +1000" channel="foxsports503.au">
+    <title lang="en">Lahore Qalandars - San Francisco Unicorns</title>
+    <sub-title lang="en">Global Super League</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260728030000 +1000" stop="20260728060000 +1000" channel="foxsports505.au">
+    <title lang="en">Ultimate Pool Champions League</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260729235500 +1000" stop="20260730025500 +1000" channel="foxsports505.au">
+    <title lang="en">Oval Invincibles W - London Spirit W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260730030000 +1000" stop="20260730060000 +1000" channel="foxsports505.au">
+    <title lang="en">Oval Invincibles - London Spirit</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260730180000 +1000" stop="20260730210000 +1000" channel="foxsports505.au">
+    <title lang="en">The Open Featured Groups: Round 1</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260730220000 +1000" stop="20260731010000 +1000" channel="foxsports505.au">
+    <title lang="en">The Women's Open Championship: R1</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731180000 +1000" stop="20260731210000 +1000" channel="foxsports505.au">
+    <title lang="en">The Open Featured Groups: Round 2</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260724210000 +1000" stop="20260724225800 +1000" channel="foxsports506.au">
+    <title lang="en">F1: Hungary Practice 1</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260724225800 +1000" stop="20260725000300 +1000" channel="foxsports506.au">
+    <title lang="en">F3: Hungary Qualifying</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725000300 +1000" stop="20260725004500 +1000" channel="foxsports506.au">
+    <title lang="en">F2: Hungary Qualifying</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725004500 +1000" stop="20260725034500 +1000" channel="foxsports506.au">
+    <title lang="en">F1: Hungary Practice 2</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725050000 +1000" stop="20260725080000 +1000" channel="foxsports506.au">
+    <title lang="en">Wakefield Trinity - Castleford Tigers</title>
+    <sub-title lang="en">Super League Rugby</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260725103000 +1000" stop="20260725133000 +1000" channel="foxsports506.au">
+    <title lang="en">Motorsport: Shannons SpeedSeries</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725180000 +1000" stop="20260725191800 +1000" channel="foxsports506.au">
+    <title lang="en">F3: Hungary Sprint Race</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725191800 +1000" stop="20260725201500 +1000" channel="foxsports506.au">
+    <title lang="en">Porsche Supercup Series</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725201500 +1000" stop="20260725221000 +1000" channel="foxsports506.au">
+    <title lang="en">F1: Hungary Practice 3</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725221000 +1000" stop="20260725235500 +1000" channel="foxsports506.au">
+    <title lang="en">F2: Hungary Sprint Race</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725235500 +1000" stop="20260726025500 +1000" channel="foxsports506.au">
+    <title lang="en">F1: Hungary Qualifying</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726050000 +1000" stop="20260726080000 +1000" channel="foxsports506.au">
+    <title lang="en">NASCAR Auto Parts: Indianapolis</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726093000 +1000" stop="20260726123000 +1000" channel="foxsports506.au">
+    <title lang="en">Motorsport: Shannons SpeedSeries</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726163500 +1000" stop="20260726180500 +1000" channel="foxsports506.au">
+    <title lang="en">F3: Hungary Feature Race</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726180500 +1000" stop="20260726192000 +1000" channel="foxsports506.au">
+    <title lang="en">Porsche Supercup Series</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726192000 +1000" stop="20260726213000 +1000" channel="foxsports506.au">
+    <title lang="en">F2: Hungary Feature Race</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726213000 +1000" stop="20260726225500 +1000" channel="foxsports506.au">
+    <title lang="en">F1 Grand Prix Sunday: Hungary</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260726225500 +1000" stop="20260727015500 +1000" channel="foxsports506.au">
+    <title lang="en">F1: Hungary Race</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260727030000 +1000" stop="20260727060000 +1000" channel="foxsports506.au">
+    <title lang="en">NASCAR Cup Series: Indianapolis</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731230000 +1000" stop="20260801020000 +1000" channel="foxsportsmore.au">
+    <title lang="en">Golf: PGA Tour Champions</title>
+    <category lang="en">Sports</category>
+  </programme>
+</tv>
