@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="au-sports-epg" source-info-name="Kayo / ausportguide.com">
   <channel id="espn.au">
     <display-name>ESPN</display-name>
@@ -725,12 +724,8 @@
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724180000 +1000" stop="20260724183000 +1000" channel="foxfooty.au">
+  <programme start="20260724180000 +1000" stop="20260724194000 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260724183000 +1000" stop="20260724194000 +1000" channel="foxfooty.au">
-    <title lang="en">Live: Friday Night Footy on Fox</title>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260724194000 +1000" stop="20260724221500 +1000" channel="foxfooty.au">
@@ -797,111 +792,119 @@
     <title lang="en">Live: AFL: Carlton vs Gold Coast</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260725154000 +1000" stop="20260725184000 +1000" channel="foxfooty.au">
+  <programme start="20260725154000 +1000" stop="20260725160000 +1000" channel="foxfooty.au">
     <title lang="en">Live: Super Saturday</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260725184000 +1000" stop="20260726004000 +1000" channel="foxfooty.au">
+  <programme start="20260725160000 +1000" stop="20260725161500 +1000" channel="foxfooty.au">
+    <title lang="en">Live: Super Saturday</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725161500 +1000" stop="20260725191500 +1000" channel="foxfooty.au">
+    <title lang="en">Live: AFL: Hawthorn vs Essendon</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260725191500 +1000" stop="20260726011500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260726004000 +1000" stop="20260726064000 +1000" channel="foxfooty.au">
+  <programme start="20260726011500 +1000" stop="20260726071500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260726064000 +1000" stop="20260726124000 +1000" channel="foxfooty.au">
+  <programme start="20260726071500 +1000" stop="20260726131500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260726124000 +1000" stop="20260726184000 +1000" channel="foxfooty.au">
+  <programme start="20260726131500 +1000" stop="20260726191500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260726184000 +1000" stop="20260727004000 +1000" channel="foxfooty.au">
+  <programme start="20260726191500 +1000" stop="20260727011500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260727004000 +1000" stop="20260727064000 +1000" channel="foxfooty.au">
+  <programme start="20260727011500 +1000" stop="20260727071500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260727064000 +1000" stop="20260727124000 +1000" channel="foxfooty.au">
+  <programme start="20260727071500 +1000" stop="20260727131500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260727124000 +1000" stop="20260727184000 +1000" channel="foxfooty.au">
+  <programme start="20260727131500 +1000" stop="20260727191500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260727184000 +1000" stop="20260728004000 +1000" channel="foxfooty.au">
+  <programme start="20260727191500 +1000" stop="20260728011500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260728004000 +1000" stop="20260728064000 +1000" channel="foxfooty.au">
+  <programme start="20260728011500 +1000" stop="20260728071500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260728064000 +1000" stop="20260728124000 +1000" channel="foxfooty.au">
+  <programme start="20260728071500 +1000" stop="20260728131500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260728124000 +1000" stop="20260728184000 +1000" channel="foxfooty.au">
+  <programme start="20260728131500 +1000" stop="20260728191500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260728184000 +1000" stop="20260729004000 +1000" channel="foxfooty.au">
+  <programme start="20260728191500 +1000" stop="20260729011500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260729004000 +1000" stop="20260729064000 +1000" channel="foxfooty.au">
+  <programme start="20260729011500 +1000" stop="20260729071500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260729064000 +1000" stop="20260729124000 +1000" channel="foxfooty.au">
+  <programme start="20260729071500 +1000" stop="20260729131500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260729124000 +1000" stop="20260729184000 +1000" channel="foxfooty.au">
+  <programme start="20260729131500 +1000" stop="20260729191500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260729184000 +1000" stop="20260730004000 +1000" channel="foxfooty.au">
+  <programme start="20260729191500 +1000" stop="20260730011500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730004000 +1000" stop="20260730064000 +1000" channel="foxfooty.au">
+  <programme start="20260730011500 +1000" stop="20260730071500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730064000 +1000" stop="20260730124000 +1000" channel="foxfooty.au">
+  <programme start="20260730071500 +1000" stop="20260730131500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730124000 +1000" stop="20260730184000 +1000" channel="foxfooty.au">
+  <programme start="20260730131500 +1000" stop="20260730191500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730184000 +1000" stop="20260731004000 +1000" channel="foxfooty.au">
+  <programme start="20260730191500 +1000" stop="20260731011500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731004000 +1000" stop="20260731064000 +1000" channel="foxfooty.au">
+  <programme start="20260731011500 +1000" stop="20260731071500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731064000 +1000" stop="20260731124000 +1000" channel="foxfooty.au">
+  <programme start="20260731071500 +1000" stop="20260731131500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731124000 +1000" stop="20260731184000 +1000" channel="foxfooty.au">
+  <programme start="20260731131500 +1000" stop="20260731191500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731184000 +1000" stop="20260801004000 +1000" channel="foxfooty.au">
+  <programme start="20260731191500 +1000" stop="20260801011500 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801004000 +1000" stop="20260801023000 +1000" channel="foxfooty.au">
+  <programme start="20260801011500 +1000" stop="20260801023000 +1000" channel="foxfooty.au">
     <title lang="en">Fox Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
@@ -1593,20 +1596,8 @@
     <title lang="en">Racing.com programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260724180000 +1000" stop="20260724191500 +1000" channel="racing.au">
+  <programme start="20260724180000 +1000" stop="20260724211500 +1000" channel="racing.au">
     <title lang="en">Racing.com programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260724191500 +1000" stop="20260724194500 +1000" channel="racing.au">
-    <title lang="en">The Analyser</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260724194500 +1000" stop="20260724201500 +1000" channel="racing.au">
-    <title lang="en">Racing Review - Echuca</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260724201500 +1000" stop="20260724211500 +1000" channel="racing.au">
-    <title lang="en">Flashback: Australian Guineas</title>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260724211500 +1000" stop="20260724214500 +1000" channel="racing.au">
