@@ -1,1 +1,33 @@
-# epg
+name: Build EPG
+
+on:
+  schedule:
+    - cron: "0 17 * * *"   # 3:00 AM Brisbane time, daily
+  workflow_dispatch: {}     # allows manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build EPG
+        run: python build_epg.py
+
+      - name: Commit updated epg.xml
+        run: |
+          git config user.name "epg-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add epg.xml
+          git diff --cached --quiet || git commit -m "Update EPG $(date -u +%Y-%m-%d)"
+          git push
