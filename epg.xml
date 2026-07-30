@@ -53,29 +53,18 @@
     <display-name>Racing</display-name>
     <lcn>529</lcn>
   </channel>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="ESP">
-    <title lang="en">ESPN programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730060000 +1000" stop="20260730120000 +1000" channel="ESP">
-    <title lang="en">ESPN programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730120000 +1000" stop="20260730180000 +1000" channel="ESP">
-    <title lang="en">ESPN programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730180000 +1000" stop="20260731000000 +1000" channel="ESP">
-    <title lang="en">ESPN programming</title>
-    <category lang="en">Sports</category>
-  </programme>
   <programme start="20260731000000 +1000" stop="20260731060000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731060000 +1000" stop="20260731120000 +1000" channel="ESP">
+  <programme start="20260731060000 +1000" stop="20260731090000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731090000 +1000" stop="20260731120000 +1000" channel="ESP">
+    <title lang="en">Atlanta Braves - Washington Nationals</title>
+    <sub-title lang="en">MLB</sub-title>
+    <category lang="en">Baseball</category>
   </programme>
   <programme start="20260731120000 +1000" stop="20260731180000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
@@ -93,60 +82,151 @@
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801083000 +1000" stop="20260801143000 +1000" channel="ESP">
+  <programme start="20260801083000 +1000" stop="20260801090000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801143000 +1000" stop="20260801203000 +1000" channel="ESP">
+  <programme start="20260801090000 +1000" stop="20260801120000 +1000" channel="ESP">
+    <title lang="en">Cleveland Guardians - Arizona Diamondbacks</title>
+    <sub-title lang="en">MLB</sub-title>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260801120000 +1000" stop="20260801170000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801203000 +1000" stop="20260802023000 +1000" channel="ESP">
+  <programme start="20260801170000 +1000" stop="20260801200000 +1000" channel="ESP">
+    <title lang="en">Australian Ice Hockey League: Bea</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801200000 +1000" stop="20260802020000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802023000 +1000" stop="20260802083000 +1000" channel="ESP">
+  <programme start="20260802020000 +1000" stop="20260802023000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802083000 +1000" stop="20260802143000 +1000" channel="ESP">
+  <programme start="20260802023000 +1000" stop="20260802050000 +1000" channel="ESP">
+    <title lang="en">Premier Lacrosse League: Whipsnak</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260802050000 +1000" stop="20260802080000 +1000" channel="ESP">
+    <title lang="en">Phoenix Mercury W - New York Liberty W</title>
+    <sub-title lang="en">WNBA</sub-title>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260802080000 +1000" stop="20260802090000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802143000 +1000" stop="20260802203000 +1000" channel="ESP">
+  <programme start="20260802090000 +1000" stop="20260802120000 +1000" channel="ESP">
+    <title lang="en">Chicago Cubs - New York Yankees</title>
+    <sub-title lang="en">MLB</sub-title>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260802120000 +1000" stop="20260802180000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802203000 +1000" stop="20260803020000 +1000" channel="ESP">
+  <programme start="20260802180000 +1000" stop="20260803000000 +1000" channel="ESP">
     <title lang="en">ESPN programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="ES2">
+  <programme start="20260803000000 +1000" stop="20260803060000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803060000 +1000" stop="20260803120000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803120000 +1000" stop="20260803180000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803180000 +1000" stop="20260804000000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804000000 +1000" stop="20260804060000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804060000 +1000" stop="20260804120000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804120000 +1000" stop="20260804180000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804180000 +1000" stop="20260805000000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805000000 +1000" stop="20260805060000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805060000 +1000" stop="20260805120000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805120000 +1000" stop="20260805180000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805180000 +1000" stop="20260806000000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806000000 +1000" stop="20260806060000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806060000 +1000" stop="20260806120000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806120000 +1000" stop="20260806180000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806180000 +1000" stop="20260807000000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807000000 +1000" stop="20260807060000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807060000 +1000" stop="20260807100000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807100000 +1000" stop="20260807130000 +1000" channel="ESP">
+    <title lang="en">Arizona Cardinals - Carolina Panthers</title>
+    <sub-title lang="en">NFL</sub-title>
+    <category lang="en">American Football</category>
+  </programme>
+  <programme start="20260807130000 +1000" stop="20260807190000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807190000 +1000" stop="20260807233000 +1000" channel="ESP">
+    <title lang="en">ESPN programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807233000 +1000" stop="20260808023000 +1000" channel="ESP">
+    <title lang="en">One Championship: ONE Friday Figh</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731000000 +1000" stop="20260731060000 +1000" channel="ES2">
     <title lang="en">ESPN2 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730060000 +1000" stop="20260730082000 +1000" channel="ES2">
-    <title lang="en">ESPN2 programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730082000 +1000" stop="20260730112000 +1000" channel="ES2">
-    <title lang="en">Internacional - Flamengo RJ</title>
-    <sub-title lang="en">Série A</sub-title>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20260730112000 +1000" stop="20260730172000 +1000" channel="ES2">
-    <title lang="en">ESPN2 programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730172000 +1000" stop="20260730232000 +1000" channel="ES2">
-    <title lang="en">ESPN2 programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730232000 +1000" stop="20260731052000 +1000" channel="ES2">
-    <title lang="en">ESPN2 programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731052000 +1000" stop="20260731082000 +1000" channel="ES2">
+  <programme start="20260731060000 +1000" stop="20260731082000 +1000" channel="ES2">
     <title lang="en">ESPN2 programming</title>
     <category lang="en">Sports</category>
   </programme>
@@ -195,109 +275,228 @@
     <title lang="en">ESPN2 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802232000 +1000" stop="20260803020000 +1000" channel="ES2">
+  <programme start="20260802232000 +1000" stop="20260803052000 +1000" channel="ES2">
     <title lang="en">ESPN2 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="SP2">
+  <programme start="20260803052000 +1000" stop="20260803112000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803112000 +1000" stop="20260803172000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803172000 +1000" stop="20260803232000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803232000 +1000" stop="20260804052000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804052000 +1000" stop="20260804112000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804112000 +1000" stop="20260804172000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804172000 +1000" stop="20260804232000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804232000 +1000" stop="20260805052000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805052000 +1000" stop="20260805112000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805112000 +1000" stop="20260805172000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805172000 +1000" stop="20260805232000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805232000 +1000" stop="20260806052000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806052000 +1000" stop="20260806112000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806112000 +1000" stop="20260806172000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806172000 +1000" stop="20260806232000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806232000 +1000" stop="20260807052000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807052000 +1000" stop="20260807112000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807112000 +1000" stop="20260807172000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807172000 +1000" stop="20260807232000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807232000 +1000" stop="20260808023000 +1000" channel="ES2">
+    <title lang="en">ESPN2 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731000000 +1000" stop="20260731050000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730060000 +1000" stop="20260730120000 +1000" channel="SP2">
+  <programme start="20260731050000 +1000" stop="20260731080000 +1000" channel="SP2">
+    <title lang="en">Huddersfield - Hull FC</title>
+    <sub-title lang="en">Super League Rugby</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260731080000 +1000" stop="20260731140000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730120000 +1000" stop="20260730180000 +1000" channel="SP2">
+  <programme start="20260731140000 +1000" stop="20260731200000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730180000 +1000" stop="20260731000000 +1000" channel="SP2">
+  <programme start="20260731200000 +1000" stop="20260801020000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731000000 +1000" stop="20260731060000 +1000" channel="SP2">
+  <programme start="20260801020000 +1000" stop="20260801080000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731060000 +1000" stop="20260731120000 +1000" channel="SP2">
+  <programme start="20260801080000 +1000" stop="20260801140000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731120000 +1000" stop="20260731180000 +1000" channel="SP2">
+  <programme start="20260801140000 +1000" stop="20260801200000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731180000 +1000" stop="20260801000000 +1000" channel="SP2">
+  <programme start="20260801200000 +1000" stop="20260802020000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801000000 +1000" stop="20260801060000 +1000" channel="SP2">
+  <programme start="20260802020000 +1000" stop="20260802080000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801060000 +1000" stop="20260801120000 +1000" channel="SP2">
+  <programme start="20260802080000 +1000" stop="20260802140000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801120000 +1000" stop="20260801180000 +1000" channel="SP2">
+  <programme start="20260802140000 +1000" stop="20260802200000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801180000 +1000" stop="20260802000000 +1000" channel="SP2">
+  <programme start="20260802200000 +1000" stop="20260803020000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802000000 +1000" stop="20260802060000 +1000" channel="SP2">
+  <programme start="20260803020000 +1000" stop="20260803080000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802060000 +1000" stop="20260802120000 +1000" channel="SP2">
+  <programme start="20260803080000 +1000" stop="20260803140000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802120000 +1000" stop="20260802180000 +1000" channel="SP2">
+  <programme start="20260803140000 +1000" stop="20260803200000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802180000 +1000" stop="20260803000000 +1000" channel="SP2">
+  <programme start="20260803200000 +1000" stop="20260804020000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260803000000 +1000" stop="20260803020000 +1000" channel="SP2">
+  <programme start="20260804020000 +1000" stop="20260804080000 +1000" channel="SP2">
     <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="FS1">
-    <title lang="en">FOX CRICKET programming</title>
+  <programme start="20260804080000 +1000" stop="20260804140000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730060000 +1000" stop="20260730083000 +1000" channel="FS1">
-    <title lang="en">FOX CRICKET programming</title>
+  <programme start="20260804140000 +1000" stop="20260804200000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730083000 +1000" stop="20260730113000 +1000" channel="FS1">
-    <title lang="en">Guyana Amazon Warriors - Perth Scorchers</title>
-    <sub-title lang="en">Global Super League</sub-title>
-    <category lang="en">Cricket</category>
-  </programme>
-  <programme start="20260730113000 +1000" stop="20260730173000 +1000" channel="FS1">
-    <title lang="en">FOX CRICKET programming</title>
+  <programme start="20260804200000 +1000" stop="20260805020000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730173000 +1000" stop="20260730233000 +1000" channel="FS1">
-    <title lang="en">FOX CRICKET programming</title>
+  <programme start="20260805020000 +1000" stop="20260805080000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730233000 +1000" stop="20260730234500 +1000" channel="FS1">
-    <title lang="en">FOX CRICKET programming</title>
+  <programme start="20260805080000 +1000" stop="20260805140000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730234500 +1000" stop="20260731024500 +1000" channel="FS1">
-    <title lang="en">Southern Brave W - Birmingham Phoenix W</title>
-    <sub-title lang="en">The Hundred Women</sub-title>
-    <category lang="en">Cricket</category>
+  <programme start="20260805140000 +1000" stop="20260805200000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731024500 +1000" stop="20260731030000 +1000" channel="FS1">
+  <programme start="20260805200000 +1000" stop="20260806020000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806020000 +1000" stop="20260806080000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806080000 +1000" stop="20260806140000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806140000 +1000" stop="20260806200000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806200000 +1000" stop="20260807020000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807020000 +1000" stop="20260807080000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807080000 +1000" stop="20260807140000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807140000 +1000" stop="20260807200000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807200000 +1000" stop="20260808020000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260808020000 +1000" stop="20260808023000 +1000" channel="SP2">
+    <title lang="en">FOX League programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731000000 +1000" stop="20260731030000 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
@@ -323,200 +522,394 @@
     <sub-title lang="en">The Hundred Women</sub-title>
     <category lang="en">Cricket</category>
   </programme>
-  <programme start="20260801024500 +1000" stop="20260801084500 +1000" channel="FS1">
+  <programme start="20260801024500 +1000" stop="20260801030000 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801084500 +1000" stop="20260801144500 +1000" channel="FS1">
+  <programme start="20260801030000 +1000" stop="20260801060000 +1000" channel="FS1">
+    <title lang="en">Manchester Originals - Trent Rockets</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260801060000 +1000" stop="20260801083000 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801144500 +1000" stop="20260801204500 +1000" channel="FS1">
+  <programme start="20260801083000 +1000" stop="20260801113000 +1000" channel="FS1">
+    <title lang="en">GSL: Game 11</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801113000 +1000" stop="20260801173000 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801204500 +1000" stop="20260802024500 +1000" channel="FS1">
+  <programme start="20260801173000 +1000" stop="20260801194500 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802024500 +1000" stop="20260802084500 +1000" channel="FS1">
+  <programme start="20260801194500 +1000" stop="20260801224500 +1000" channel="FS1">
+    <title lang="en">Birmingham Phoenix W - Welsh Fire W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260801224500 +1000" stop="20260801230000 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802084500 +1000" stop="20260802144500 +1000" channel="FS1">
+  <programme start="20260801230000 +1000" stop="20260802020000 +1000" channel="FS1">
+    <title lang="en">Birmingham Phoenix - Welsh Fire</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260802020000 +1000" stop="20260802023000 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802144500 +1000" stop="20260802204500 +1000" channel="FS1">
+  <programme start="20260802023000 +1000" stop="20260802053000 +1000" channel="FS1">
+    <title lang="en">London Spirit - Southern Brave</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260802053000 +1000" stop="20260802083000 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802204500 +1000" stop="20260803020000 +1000" channel="FS1">
+  <programme start="20260802083000 +1000" stop="20260802113000 +1000" channel="FS1">
+    <title lang="en">GSL: Game 12 Final</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260802113000 +1000" stop="20260802173000 +1000" channel="FS1">
     <title lang="en">FOX CRICKET programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="FAF">
+  <programme start="20260802173000 +1000" stop="20260802194500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260802194500 +1000" stop="20260802224500 +1000" channel="FS1">
+    <title lang="en">Trent Rockets W - Northern Superchargers W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260802224500 +1000" stop="20260802230000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260802230000 +1000" stop="20260803020000 +1000" channel="FS1">
+    <title lang="en">Trent Rockets - Northern Superchargers</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260803020000 +1000" stop="20260803023000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803023000 +1000" stop="20260803053000 +1000" channel="FS1">
+    <title lang="en">Oval Invincibles - Manchester Originals</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260803053000 +1000" stop="20260803113000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803113000 +1000" stop="20260803173000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803173000 +1000" stop="20260803233000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803233000 +1000" stop="20260803234500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803234500 +1000" stop="20260804024500 +1000" channel="FS1">
+    <title lang="en">Welsh Fire W - Southern Brave W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260804024500 +1000" stop="20260804030000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804030000 +1000" stop="20260804060000 +1000" channel="FS1">
+    <title lang="en">Welsh Fire - Southern Brave</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260804060000 +1000" stop="20260804120000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804120000 +1000" stop="20260804180000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804180000 +1000" stop="20260804234500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804234500 +1000" stop="20260805024500 +1000" channel="FS1">
+    <title lang="en">Northern Superchargers W - London Spirit W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260805024500 +1000" stop="20260805084500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805084500 +1000" stop="20260805144500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805144500 +1000" stop="20260805204500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805204500 +1000" stop="20260806024500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806024500 +1000" stop="20260806084500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806084500 +1000" stop="20260806144500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806144500 +1000" stop="20260806204500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806204500 +1000" stop="20260807024500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807024500 +1000" stop="20260807084500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807084500 +1000" stop="20260807144500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807144500 +1000" stop="20260807204500 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807204500 +1000" stop="20260808023000 +1000" channel="FS1">
+    <title lang="en">FOX CRICKET programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731000000 +1000" stop="20260731041500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730060000 +1000" stop="20260730063000 +1000" channel="FAF">
-    <title lang="en">First Crack Preview</title>
+  <programme start="20260731041500 +1000" stop="20260731064500 +1000" channel="FAF">
+    <title lang="en">AFL: Collingwood v Geelong</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730063000 +1000" stop="20260730085500 +1000" channel="FAF">
-    <title lang="en">VFL: Casey v Geelong</title>
+  <programme start="20260731064500 +1000" stop="20260731071500 +1000" channel="FAF">
+    <title lang="en">AFL Rewind: 2017 R3 Fremantle v Western</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730085500 +1000" stop="20260730091500 +1000" channel="FAF">
-    <title lang="en">AFL Mini: Round 20 ADL vs COL</title>
+  <programme start="20260731071500 +1000" stop="20260731074500 +1000" channel="FAF">
+    <title lang="en">AFL Rewind: 2023 PF Brisbane v Carlton</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730091500 +1000" stop="20260730101500 +1000" channel="FAF">
-    <title lang="en">AFL 360</title>
+  <programme start="20260731074500 +1000" stop="20260731101500 +1000" channel="FAF">
+    <title lang="en">AFL: Collingwood v Geelong</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730101500 +1000" stop="20260730104500 +1000" channel="FAF">
-    <title lang="en">First Crack Preview</title>
+  <programme start="20260731101500 +1000" stop="20260731104500 +1000" channel="FAF">
+    <title lang="en">AFL Rewind: 2008 R8 Fremantle v Western</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730104500 +1000" stop="20260730114500 +1000" channel="FAF">
-    <title lang="en">AFL 360</title>
+  <programme start="20260731104500 +1000" stop="20260731111500 +1000" channel="FAF">
+    <title lang="en">AFL Rewind: 2009 EF Brisbane v Carlton</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730114500 +1000" stop="20260730121500 +1000" channel="FAF">
-    <title lang="en">First Crack Preview</title>
+  <programme start="20260731111500 +1000" stop="20260731134500 +1000" channel="FAF">
+    <title lang="en">AFL: Collingwood v Geelong</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730121500 +1000" stop="20260730131500 +1000" channel="FAF">
-    <title lang="en">AFL 360</title>
+  <programme start="20260731134500 +1000" stop="20260731141500 +1000" channel="FAF">
+    <title lang="en">AFL Rewind: 2017 R3 Fremantle v Western</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730131500 +1000" stop="20260730134500 +1000" channel="FAF">
-    <title lang="en">AFL Rewind: 2019 QF Geelong v Collingwo</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730134500 +1000" stop="20260730144500 +1000" channel="FAF">
-    <title lang="en">AFL 360</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730144500 +1000" stop="20260730151500 +1000" channel="FAF">
-    <title lang="en">First Crack Preview</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730151500 +1000" stop="20260730161500 +1000" channel="FAF">
-    <title lang="en">AFL 360</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730161500 +1000" stop="20260730164500 +1000" channel="FAF">
-    <title lang="en">First Crack Preview</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730164500 +1000" stop="20260730171500 +1000" channel="FAF">
-    <title lang="en">AFL Rewind: 2013 R8 Collingwood v Geelo</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730171500 +1000" stop="20260730174500 +1000" channel="FAF">
-    <title lang="en">AFL Rewind: 2011 GF Collingwood v Geelo</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730174500 +1000" stop="20260730180000 +1000" channel="FAF">
+  <programme start="20260731141500 +1000" stop="20260731143000 +1000" channel="FAF">
     <title lang="en">Foxcatcher</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730180000 +1000" stop="20260730183000 +1000" channel="FAF">
-    <title lang="en">Live: AFL Tonight</title>
+  <programme start="20260731143000 +1000" stop="20260731150000 +1000" channel="FAF">
+    <title lang="en">AFL Rewind: 2023 PF Brisbane v Carlton</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730183000 +1000" stop="20260730193000 +1000" channel="FAF">
-    <title lang="en">Live: Thursday Night Footy on Fox</title>
+  <programme start="20260731150000 +1000" stop="20260731153000 +1000" channel="FAF">
+    <title lang="en">AFL Rewind: 2008 R8 Fremantle v Western</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730193000 +1000" stop="20260730220500 +1000" channel="FAF">
-    <title lang="en">Live: AFL: Collingwood vs Geelong</title>
+  <programme start="20260731153000 +1000" stop="20260731154000 +1000" channel="FAF">
+    <title lang="en">In The Back Pocket</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730220500 +1000" stop="20260730230000 +1000" channel="FAF">
-    <title lang="en">Live: Thursday Night Footy on Fox</title>
+  <programme start="20260731154000 +1000" stop="20260731160000 +1000" channel="FAF">
+    <title lang="en">AFL Mini: Round 21 COL v GEE</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730230000 +1000" stop="20260730231500 +1000" channel="FAF">
-    <title lang="en">Foxcatcher</title>
+  <programme start="20260731160000 +1000" stop="20260731183700 +1000" channel="FAF">
+    <title lang="en">Live: VFL: Geelong v Collingwood</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730231500 +1000" stop="20260731014500 +1000" channel="FAF">
-    <title lang="en">AFL: Collingwood vs Geelong</title>
+  <programme start="20260731183700 +1000" stop="20260731190000 +1000" channel="FAF">
+    <title lang="en">Live: Friday Night Footy on Fox</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731014500 +1000" stop="20260731044500 +1000" channel="FAF">
-    <title lang="en">AFL: Collingwood vs Geelong</title>
+  <programme start="20260731190000 +1000" stop="20260731201000 +1000" channel="FAF">
+    <title lang="en">Live: Friday Night Footy on Fox</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731044500 +1000" stop="20260731104500 +1000" channel="FAF">
+  <programme start="20260731201000 +1000" stop="20260731224500 +1000" channel="FAF">
+    <title lang="en">Live: AFL: Fremantle vs Western Bulldogs</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731224500 +1000" stop="20260731234500 +1000" channel="FAF">
+    <title lang="en">Live: Friday Night Footy on Fox</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731234500 +1000" stop="20260801001500 +1000" channel="FAF">
+    <title lang="en">In The Back Pocket</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801001500 +1000" stop="20260801003500 +1000" channel="FAF">
+    <title lang="en">AFL Mini: Round 21 COL v GEE</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801003500 +1000" stop="20260801005500 +1000" channel="FAF">
+    <title lang="en">AFL Mini: Round 21 FRE v WB</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801005500 +1000" stop="20260801011500 +1000" channel="FAF">
+    <title lang="en">AFL Mini: Round 21 COL v GEE</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801011500 +1000" stop="20260801041500 +1000" channel="FAF">
+    <title lang="en">AFL: Fremantle vs Western Bulldogs</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260801041500 +1000" stop="20260801101500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731104500 +1000" stop="20260731164500 +1000" channel="FAF">
+  <programme start="20260801101500 +1000" stop="20260801161500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731164500 +1000" stop="20260731224500 +1000" channel="FAF">
+  <programme start="20260801161500 +1000" stop="20260801221500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731224500 +1000" stop="20260801044500 +1000" channel="FAF">
+  <programme start="20260801221500 +1000" stop="20260802041500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801044500 +1000" stop="20260801104500 +1000" channel="FAF">
+  <programme start="20260802041500 +1000" stop="20260802101500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801104500 +1000" stop="20260801164500 +1000" channel="FAF">
+  <programme start="20260802101500 +1000" stop="20260802161500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801164500 +1000" stop="20260801224500 +1000" channel="FAF">
+  <programme start="20260802161500 +1000" stop="20260802221500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801224500 +1000" stop="20260802044500 +1000" channel="FAF">
+  <programme start="20260802221500 +1000" stop="20260803041500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802044500 +1000" stop="20260802104500 +1000" channel="FAF">
+  <programme start="20260803041500 +1000" stop="20260803101500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802104500 +1000" stop="20260802164500 +1000" channel="FAF">
+  <programme start="20260803101500 +1000" stop="20260803161500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802164500 +1000" stop="20260802224500 +1000" channel="FAF">
+  <programme start="20260803161500 +1000" stop="20260803221500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802224500 +1000" stop="20260803020000 +1000" channel="FAF">
+  <programme start="20260803221500 +1000" stop="20260804041500 +1000" channel="FAF">
     <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="FS3">
-    <title lang="en">Fox Sports 503 programming</title>
+  <programme start="20260804041500 +1000" stop="20260804101500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730060000 +1000" stop="20260730120000 +1000" channel="FS3">
-    <title lang="en">Fox Sports 503 programming</title>
+  <programme start="20260804101500 +1000" stop="20260804161500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730120000 +1000" stop="20260730180000 +1000" channel="FS3">
-    <title lang="en">Fox Sports 503 programming</title>
+  <programme start="20260804161500 +1000" stop="20260804221500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730180000 +1000" stop="20260730210000 +1000" channel="FS3">
-    <title lang="en">Fox Sports 503 programming</title>
+  <programme start="20260804221500 +1000" stop="20260805041500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730210000 +1000" stop="20260731000000 +1000" channel="FS3">
-    <title lang="en">USPGA: Rocket Classic Round 1</title>
+  <programme start="20260805041500 +1000" stop="20260805101500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805101500 +1000" stop="20260805161500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805161500 +1000" stop="20260805221500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805221500 +1000" stop="20260806041500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806041500 +1000" stop="20260806101500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806101500 +1000" stop="20260806161500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806161500 +1000" stop="20260806221500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806221500 +1000" stop="20260807041500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807041500 +1000" stop="20260807101500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807101500 +1000" stop="20260807161500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807161500 +1000" stop="20260807221500 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807221500 +1000" stop="20260808023000 +1000" channel="FAF">
+    <title lang="en">FOX Footy programming</title>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260731000000 +1000" stop="20260731050000 +1000" channel="FS3">
@@ -610,48 +1003,112 @@
     <title lang="en">USPGA: Rocket Classic Final Round</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260803003000 +1000" stop="20260803020000 +1000" channel="FS3">
+  <programme start="20260803003000 +1000" stop="20260803030000 +1000" channel="FS3">
     <title lang="en">Fox Sports 503 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730032500 +1000" channel="FSP">
-    <title lang="en">Fox Sports 505 programming</title>
+  <programme start="20260803030000 +1000" stop="20260803060000 +1000" channel="FS3">
+    <title lang="en">USPGA: Rocket Classic Final Round</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730032500 +1000" stop="20260730062500 +1000" channel="FSP">
-    <title lang="en">Oval Invincibles - London Spirit</title>
-    <sub-title lang="en">The Hundred</sub-title>
+  <programme start="20260803060000 +1000" stop="20260803080000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803080000 +1000" stop="20260803110000 +1000" channel="FS3">
+    <title lang="en">Korn Ferry Tour: Utah Championshi</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803110000 +1000" stop="20260803170000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803170000 +1000" stop="20260803230000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803230000 +1000" stop="20260804050000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804050000 +1000" stop="20260804110000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804110000 +1000" stop="20260804170000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804170000 +1000" stop="20260804230000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804230000 +1000" stop="20260805050000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805050000 +1000" stop="20260805110000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805110000 +1000" stop="20260805170000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805170000 +1000" stop="20260805230000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805230000 +1000" stop="20260805235500 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805235500 +1000" stop="20260806025500 +1000" channel="FS3">
+    <title lang="en">Trent Rockets W - Birmingham Phoenix W</title>
+    <sub-title lang="en">The Hundred Women</sub-title>
     <category lang="en">Cricket</category>
   </programme>
-  <programme start="20260730062500 +1000" stop="20260730122500 +1000" channel="FSP">
+  <programme start="20260806025500 +1000" stop="20260806085500 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806085500 +1000" stop="20260806145500 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806145500 +1000" stop="20260806205500 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806205500 +1000" stop="20260807025500 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807025500 +1000" stop="20260807085500 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807085500 +1000" stop="20260807145500 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807145500 +1000" stop="20260807205500 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807205500 +1000" stop="20260808023000 +1000" channel="FS3">
+    <title lang="en">Fox Sports 503 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731000000 +1000" stop="20260731060000 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730122500 +1000" stop="20260730180000 +1000" channel="FSP">
+  <programme start="20260731060000 +1000" stop="20260731120000 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730180000 +1000" stop="20260730210000 +1000" channel="FSP">
-    <title lang="en">The Open Featured Groups: Round 1</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730210000 +1000" stop="20260730220000 +1000" channel="FSP">
-    <title lang="en">Fox Sports 505 programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730220000 +1000" stop="20260731010000 +1000" channel="FSP">
-    <title lang="en">The Women's Open Championship: R1</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731010000 +1000" stop="20260731070000 +1000" channel="FSP">
-    <title lang="en">Fox Sports 505 programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731070000 +1000" stop="20260731130000 +1000" channel="FSP">
-    <title lang="en">Fox Sports 505 programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731130000 +1000" stop="20260731180000 +1000" channel="FSP">
+  <programme start="20260731120000 +1000" stop="20260731180000 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
@@ -667,48 +1124,132 @@
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801090000 +1000" stop="20260801150000 +1000" channel="FSP">
+  <programme start="20260801090000 +1000" stop="20260801141500 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801150000 +1000" stop="20260801210000 +1000" channel="FSP">
+  <programme start="20260801141500 +1000" stop="20260801161500 +1000" channel="FSP">
+    <title lang="en">St. George Illawarra Dragons W - Sydney Roosters W</title>
+    <sub-title lang="en">National Rugby League Women</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260801161500 +1000" stop="20260801191500 +1000" channel="FSP">
+    <title lang="en">Canberra Raiders W - NQ Cowboys W</title>
+    <sub-title lang="en">National Rugby League Women</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260801191500 +1000" stop="20260802011500 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260801210000 +1000" stop="20260802030000 +1000" channel="FSP">
+  <programme start="20260802011500 +1000" stop="20260802071500 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802030000 +1000" stop="20260802090000 +1000" channel="FSP">
+  <programme start="20260802071500 +1000" stop="20260802131500 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802090000 +1000" stop="20260802150000 +1000" channel="FSP">
+  <programme start="20260802131500 +1000" stop="20260802134500 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802150000 +1000" stop="20260802210000 +1000" channel="FSP">
+  <programme start="20260802134500 +1000" stop="20260802154500 +1000" channel="FSP">
+    <title lang="en">New Zealand Warriors W - Gold Coast Titans W</title>
+    <sub-title lang="en">National Rugby League Women</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260802154500 +1000" stop="20260802184500 +1000" channel="FSP">
+    <title lang="en">Parramatta Eels W - Newcastle Knights W</title>
+    <sub-title lang="en">National Rugby League Women</sub-title>
+    <category lang="en">Rugby League</category>
+  </programme>
+  <programme start="20260802184500 +1000" stop="20260803004500 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802210000 +1000" stop="20260803020000 +1000" channel="FSP">
+  <programme start="20260803004500 +1000" stop="20260803064500 +1000" channel="FSP">
     <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="SPS">
-    <title lang="en">Fox Sports 506 programming</title>
+  <programme start="20260803064500 +1000" stop="20260803124500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730060000 +1000" stop="20260730120000 +1000" channel="SPS">
-    <title lang="en">Fox Sports 506 programming</title>
+  <programme start="20260803124500 +1000" stop="20260803184500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730120000 +1000" stop="20260730180000 +1000" channel="SPS">
-    <title lang="en">Fox Sports 506 programming</title>
+  <programme start="20260803184500 +1000" stop="20260804004500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730180000 +1000" stop="20260731000000 +1000" channel="SPS">
-    <title lang="en">Fox Sports 506 programming</title>
+  <programme start="20260804004500 +1000" stop="20260804064500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804064500 +1000" stop="20260804124500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804124500 +1000" stop="20260804184500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804184500 +1000" stop="20260805004500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805004500 +1000" stop="20260805064500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805064500 +1000" stop="20260805124500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805124500 +1000" stop="20260805184500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805184500 +1000" stop="20260806004500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806004500 +1000" stop="20260806064500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806064500 +1000" stop="20260806124500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806124500 +1000" stop="20260806184500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806184500 +1000" stop="20260807004500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807004500 +1000" stop="20260807064500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807064500 +1000" stop="20260807124500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807124500 +1000" stop="20260807184500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807184500 +1000" stop="20260808004500 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260808004500 +1000" stop="20260808023000 +1000" channel="FSP">
+    <title lang="en">Fox Sports 505 programming</title>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260731000000 +1000" stop="20260731060000 +1000" channel="SPS">
@@ -747,36 +1288,109 @@
     <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802060000 +1000" stop="20260802120000 +1000" channel="SPS">
+  <programme start="20260802060000 +1000" stop="20260802103000 +1000" channel="SPS">
     <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802120000 +1000" stop="20260802180000 +1000" channel="SPS">
+  <programme start="20260802103000 +1000" stop="20260802133000 +1000" channel="SPS">
+    <title lang="en">V8 SUPERCARS 2026 R08 PER V8SC</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260802133000 +1000" stop="20260802193000 +1000" channel="SPS">
     <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802180000 +1000" stop="20260803000000 +1000" channel="SPS">
+  <programme start="20260802193000 +1000" stop="20260802232500 +1000" channel="SPS">
     <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260803000000 +1000" stop="20260803020000 +1000" channel="SPS">
+  <programme start="20260802232500 +1000" stop="20260803022500 +1000" channel="SPS">
+    <title lang="en">Trent Rockets - Northern Superchargers</title>
+    <sub-title lang="en">The Hundred</sub-title>
+    <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20260803022500 +1000" stop="20260803082500 +1000" channel="SPS">
     <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="FSS">
-    <title lang="en">Fox Sports More programming</title>
+  <programme start="20260803082500 +1000" stop="20260803142500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730060000 +1000" stop="20260730120000 +1000" channel="FSS">
-    <title lang="en">Fox Sports More programming</title>
+  <programme start="20260803142500 +1000" stop="20260803202500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730120000 +1000" stop="20260730180000 +1000" channel="FSS">
-    <title lang="en">Fox Sports More programming</title>
+  <programme start="20260803202500 +1000" stop="20260804022500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730180000 +1000" stop="20260731000000 +1000" channel="FSS">
-    <title lang="en">Fox Sports More programming</title>
+  <programme start="20260804022500 +1000" stop="20260804082500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804082500 +1000" stop="20260804142500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804142500 +1000" stop="20260804202500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804202500 +1000" stop="20260805022500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805022500 +1000" stop="20260805082500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805082500 +1000" stop="20260805142500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805142500 +1000" stop="20260805202500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805202500 +1000" stop="20260806022500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806022500 +1000" stop="20260806082500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806082500 +1000" stop="20260806142500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806142500 +1000" stop="20260806202500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806202500 +1000" stop="20260807022500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807022500 +1000" stop="20260807082500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807082500 +1000" stop="20260807142500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807142500 +1000" stop="20260807202500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807202500 +1000" stop="20260808022500 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260808022500 +1000" stop="20260808023000 +1000" channel="SPS">
+    <title lang="en">Fox Sports 506 programming</title>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260731000000 +1000" stop="20260731060000 +1000" channel="FSS">
@@ -835,96 +1449,160 @@
     <title lang="en">Golf: PGA Tour Champions</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730000000 +1000" stop="20260730060000 +1000" channel="RTV">
+  <programme start="20260803020000 +1000" stop="20260803080000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803080000 +1000" stop="20260803140000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803140000 +1000" stop="20260803200000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803200000 +1000" stop="20260804020000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804020000 +1000" stop="20260804080000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804080000 +1000" stop="20260804140000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804140000 +1000" stop="20260804200000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804200000 +1000" stop="20260805020000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805020000 +1000" stop="20260805080000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805080000 +1000" stop="20260805140000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805140000 +1000" stop="20260805200000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805200000 +1000" stop="20260806020000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806020000 +1000" stop="20260806080000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806080000 +1000" stop="20260806140000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806140000 +1000" stop="20260806200000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806200000 +1000" stop="20260807020000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807020000 +1000" stop="20260807080000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807080000 +1000" stop="20260807140000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807140000 +1000" stop="20260807200000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807200000 +1000" stop="20260808020000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260808020000 +1000" stop="20260808023000 +1000" channel="FSS">
+    <title lang="en">Fox Sports More programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731000000 +1000" stop="20260731060000 +1000" channel="RTV">
     <title lang="en">RACING.COM programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730060000 +1000" stop="20260730070000 +1000" channel="RTV">
-    <title lang="en">Classic Racedays</title>
+  <programme start="20260731060000 +1000" stop="20260731063000 +1000" channel="RTV">
+    <title lang="en">Racing Review - Bendigo</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730070000 +1000" stop="20260730073000 +1000" channel="RTV">
-    <title lang="en">Racing Review - Sandown</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730073000 +1000" stop="20260730080000 +1000" channel="RTV">
-    <title lang="en">The Verdict: Season in Review</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730080000 +1000" stop="20260730105000 +1000" channel="RTV">
-    <title lang="en">LIVE Giddy Up</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730105000 +1000" stop="20260730120000 +1000" channel="RTV">
-    <title lang="en">LIVE Giddy Up</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730120000 +1000" stop="20260730123000 +1000" channel="RTV">
-    <title lang="en">Out The Gate</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730123000 +1000" stop="20260730153000 +1000" channel="RTV">
-    <title lang="en">Racing Live: Thursday</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730153000 +1000" stop="20260730180000 +1000" channel="RTV">
-    <title lang="en">RACING.COM programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730180000 +1000" stop="20260730190000 +1000" channel="RTV">
-    <title lang="en">Racing Live: Thursday</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730190000 +1000" stop="20260730200000 +1000" channel="RTV">
-    <title lang="en">LIVE Get On</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730200000 +1000" stop="20260730203000 +1000" channel="RTV">
+  <programme start="20260731063000 +1000" stop="20260731070000 +1000" channel="RTV">
     <title lang="en">Get On SA</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730203000 +1000" stop="20260730210000 +1000" channel="RTV">
-    <title lang="en">Foxcatcher: On The Hunt</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260730210000 +1000" stop="20260730220000 +1000" channel="RTV">
+  <programme start="20260731070000 +1000" stop="20260731080000 +1000" channel="RTV">
     <title lang="en">Get On</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730220000 +1000" stop="20260730223000 +1000" channel="RTV">
-    <title lang="en">Racing Review - Bendigo</title>
+  <programme start="20260731080000 +1000" stop="20260731105000 +1000" channel="RTV">
+    <title lang="en">LIVE Giddy Up</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260730223000 +1000" stop="20260731013000 +1000" channel="RTV">
+  <programme start="20260731105000 +1000" stop="20260731114500 +1000" channel="RTV">
+    <title lang="en">LIVE Giddy Up</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731114500 +1000" stop="20260731144500 +1000" channel="RTV">
+    <title lang="en">Racing Live: Friday</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731144500 +1000" stop="20260731180000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731180000 +1000" stop="20260731194500 +1000" channel="RTV">
+    <title lang="en">Racing Live: Friday</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731194500 +1000" stop="20260731201500 +1000" channel="RTV">
+    <title lang="en">The Analyser</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731201500 +1000" stop="20260731211500 +1000" channel="RTV">
+    <title lang="en">Get On</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731211500 +1000" stop="20260731214500 +1000" channel="RTV">
+    <title lang="en">Racing Review - Geelong</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731214500 +1000" stop="20260731220000 +1000" channel="RTV">
+    <title lang="en">Inside Industry - Damien Oliver</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731220000 +1000" stop="20260731223000 +1000" channel="RTV">
+    <title lang="en">The Analyser</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260731223000 +1000" stop="20260801013000 +1000" channel="RTV">
     <title lang="en">Racenight Live: UK Racing</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731013000 +1000" stop="20260731020000 +1000" channel="RTV">
-    <title lang="en">Racing Review - Sandown</title>
+  <programme start="20260801013000 +1000" stop="20260801020000 +1000" channel="RTV">
+    <title lang="en">Racing Review - Wangaratta</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731020000 +1000" stop="20260731023000 +1000" channel="RTV">
-    <title lang="en">Racing Review - Bendigo</title>
+  <programme start="20260801020000 +1000" stop="20260801023000 +1000" channel="RTV">
+    <title lang="en">Racing Review - Geelong</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260731023000 +1000" stop="20260731053000 +1000" channel="RTV">
-    <title lang="en">Racing Review - Sandown</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731053000 +1000" stop="20260731113000 +1000" channel="RTV">
-    <title lang="en">RACING.COM programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731113000 +1000" stop="20260731173000 +1000" channel="RTV">
-    <title lang="en">RACING.COM programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731173000 +1000" stop="20260731233000 +1000" channel="RTV">
-    <title lang="en">RACING.COM programming</title>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20260731233000 +1000" stop="20260801053000 +1000" channel="RTV">
-    <title lang="en">RACING.COM programming</title>
+  <programme start="20260801023000 +1000" stop="20260801053000 +1000" channel="RTV">
+    <title lang="en">Racing Review - Wangaratta</title>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260801053000 +1000" stop="20260801113000 +1000" channel="RTV">
@@ -955,7 +1633,87 @@
     <title lang="en">RACING.COM programming</title>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260802233000 +1000" stop="20260803020000 +1000" channel="RTV">
+  <programme start="20260802233000 +1000" stop="20260803053000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803053000 +1000" stop="20260803113000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803113000 +1000" stop="20260803173000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803173000 +1000" stop="20260803233000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260803233000 +1000" stop="20260804053000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804053000 +1000" stop="20260804113000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804113000 +1000" stop="20260804173000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804173000 +1000" stop="20260804233000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260804233000 +1000" stop="20260805053000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805053000 +1000" stop="20260805113000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805113000 +1000" stop="20260805173000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805173000 +1000" stop="20260805233000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260805233000 +1000" stop="20260806053000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806053000 +1000" stop="20260806113000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806113000 +1000" stop="20260806173000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806173000 +1000" stop="20260806233000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260806233000 +1000" stop="20260807053000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807053000 +1000" stop="20260807113000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807113000 +1000" stop="20260807173000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807173000 +1000" stop="20260807233000 +1000" channel="RTV">
+    <title lang="en">RACING.COM programming</title>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260807233000 +1000" stop="20260808023000 +1000" channel="RTV">
     <title lang="en">RACING.COM programming</title>
     <category lang="en">Sports</category>
   </programme>
